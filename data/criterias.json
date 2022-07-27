@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rendite",
+    "description": "Ausschüttungen an Anteilseigner und Manager"
+  },
+
+  {
+    "name": "Spekulation",
+    "description": "Kurzfristiger An- und Verkauf oder langfristige Investition in Neubau"
+  },
+
+  {
+    "name": "Miete",
+    "description": "Miethöhe vs. Qualität der Wohnung"
+  },
+
+  {
+    "name": "Finanzen",
+    "description": "Transparenz der Finanzkennzahlen, Steuern und Rechenschaftspflicht"
+  },
+
+  {
+    "name": "Verantwortung",
+    "description": "Konzentration von Eigentum vs. Transparenz und Gemeinnutz"
+  }
+]

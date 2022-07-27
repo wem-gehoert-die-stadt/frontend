@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "berlin",
+    "name": "Berlin",
+    "isBeta": false
+  },
+  {
+    "slug": "leipzig",
+    "name": "Leipzig",
+    "isBeta": false
+  },
+  {
+    "slug": "frankfurt-am-main",
+    "name": "Frankfurt am Main",
+    "isBeta": true
+  },
+  {
+    "slug": "erfurt",
+    "name": "Erfurt",
+    "isBeta": true
+  },
+  {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "isBeta": true
+  },
+  {
+    "slug": "muenchen",
+    "name": "München",
+    "isBeta": true
+  },
+  {
+    "slug": "duesseldorf",
+    "name": "Düsseldorf",
+    "isBeta": true
+  }
+]
