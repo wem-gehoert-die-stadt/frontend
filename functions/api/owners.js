@@ -67,6 +67,8 @@ FROM
       body: JSON.stringify(result),
     };
   } catch (error) {
+
+    console.log(error)
     return {
       statusCode: 200,
       headers,
