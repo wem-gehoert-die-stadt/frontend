@@ -55,7 +55,7 @@ exports.handler = async (event) => {
     LIMIT 20;`,
   });
 
-  searchQuery.values = [city, `%${queryTerm}%`, queryTerm];
+  searchQuery.values = [city, `%${queryTerm}%`];
 
   const insertQueryQuery = new PS({
     name: "insertQuery",
