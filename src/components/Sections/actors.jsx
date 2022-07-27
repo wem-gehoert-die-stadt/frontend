@@ -27,7 +27,6 @@ export default () => {
       },
       complete: (results) => {
         const rawData = [];
-        console.log(results.data)
         results.data.map((row, index) => {
           const stocks =
             index !== 0 &&

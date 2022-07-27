@@ -68,7 +68,6 @@ FROM
     };
   } catch (error) {
 
-    console.log(error)
     return {
       statusCode: 200,
       headers,
