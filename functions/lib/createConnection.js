@@ -10,6 +10,9 @@ const connection = {
   database: env.PG_DATABASE,
   user: env.PG_USER,
   password: env.PG_PASSWORD,
+  ssl: {
+    rejectUnauthorized: false,
+  },
 };
 
 export const db = pgp(connection);
