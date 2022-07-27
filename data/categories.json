@@ -1,254 +1,254 @@
 [
   {
-    "databaseId": 1,
-    "percentage": 2,
-    "front": true,
-    "city": "Hamburg"
+      "databaseId": 1,
+      "percentage": 2,
+      "front": true,
+      "city": "Hamburg"
   },
   {
-    "databaseId": 1,
-    "percentage": 3.5,
-    "front": true,
-    "city": "München"
+      "databaseId": 2,
+      "percentage": 26,
+      "front": false,
+      "city": "Hamburg"
   },
   {
-    "databaseId": 1,
-    "percentage": 3,
-    "front": true,
-    "city": "Frankfurt am Main"
+      "databaseId": 3,
+      "percentage": 18,
+      "front": false,
+      "city": "Hamburg"
   },
   {
-    "databaseId": 1,
-    "percentage": 7,
-    "front": true,
-    "city": "Erfurt"
+      "databaseId": 4,
+      "percentage": 24,
+      "front": false,
+      "city": "Hamburg"
   },
   {
-    "databaseId": 1,
-    "percentage": 3,
-    "front": true,
-    "city": "Düsseldorf"
+      "databaseId": 5,
+      "percentage": 15,
+      "front": false,
+      "city": "Hamburg"
   },
   {
-    "databaseId": 4,
-    "percentage": 24,
-    "front": false,
-    "city": "Hamburg"
+      "databaseId": 6,
+      "percentage": 15,
+      "front": false,
+      "city": "Hamburg"
   },
   {
-    "databaseId": 4,
-    "percentage": 25,
-    "front": false,
-    "city": "München"
+      "databaseId": 1,
+      "percentage": 3,
+      "front": true,
+      "city": "Frankfurt am Main"
   },
   {
-    "databaseId": 4,
-    "percentage": 20,
-    "front": false,
-    "city": "Frankfurt am Main"
+      "databaseId": 2,
+      "percentage": 27,
+      "front": false,
+      "city": "Frankfurt am Main"
   },
   {
-    "databaseId": 4,
-    "percentage": 21,
-    "front": false,
-    "city": "Erfurt"
+      "databaseId": 3,
+      "percentage": 25,
+      "front": false,
+      "city": "Frankfurt am Main"
   },
   {
-    "databaseId": 4,
-    "percentage": 23.5,
-    "front": false,
-    "city": "Düsseldorf"
+      "databaseId": 4,
+      "percentage": 20,
+      "front": false,
+      "city": "Frankfurt am Main"
   },
   {
-    "databaseId": 6,
-    "percentage": 15,
-    "front": false,
-    "city": "Hamburg"
+      "databaseId": 5,
+      "percentage": 6,
+      "front": false,
+      "city": "Frankfurt am Main"
   },
   {
-    "databaseId": 6,
-    "percentage": 10,
-    "front": false,
-    "city": "München"
+      "databaseId": 6,
+      "percentage": 19,
+      "front": false,
+      "city": "Frankfurt am Main"
   },
   {
-    "databaseId": 6,
-    "percentage": 19,
-    "front": false,
-    "city": "Frankfurt am Main"
+      "databaseId": 1,
+      "percentage": 7,
+      "front": true,
+      "city": "Erfurt"
   },
   {
-    "databaseId": 6,
-    "percentage": 12,
-    "front": false,
-    "city": "Erfurt"
+      "databaseId": 2,
+      "percentage": 18,
+      "front": false,
+      "city": "Erfurt"
   },
   {
-    "databaseId": 6,
-    "percentage": 3,
-    "front": false,
-    "city": "Düsseldorf"
+      "databaseId": 3,
+      "percentage": 22,
+      "front": false,
+      "city": "Erfurt"
   },
   {
-    "databaseId": 5,
-    "percentage": 15,
-    "front": false,
-    "city": "Hamburg"
+      "databaseId": 4,
+      "percentage": 21,
+      "front": false,
+      "city": "Erfurt"
   },
   {
-    "databaseId": 5,
-    "percentage": 6.5,
-    "front": false,
-    "city": "München"
+      "databaseId": 5,
+      "percentage": 20,
+      "front": false,
+      "city": "Erfurt"
   },
   {
-    "databaseId": 5,
-    "percentage": 6,
-    "front": false,
-    "city": "Frankfurt am Main"
+      "databaseId": 6,
+      "percentage": 12,
+      "front": false,
+      "city": "Erfurt"
   },
   {
-    "databaseId": 5,
-    "percentage": 20,
-    "front": false,
-    "city": "Erfurt"
+      "databaseId": 1,
+      "percentage": 3,
+      "front": true,
+      "city": "Düsseldorf"
   },
   {
-    "databaseId": 5,
-    "percentage": 7,
-    "front": false,
-    "city": "Düsseldorf"
+      "databaseId": 2,
+      "percentage": 37.5,
+      "front": false,
+      "city": "Düsseldorf"
   },
   {
-    "databaseId": 3,
-    "percentage": 18,
-    "front": false,
-    "city": "Hamburg"
+      "databaseId": 3,
+      "percentage": 26,
+      "front": false,
+      "city": "Düsseldorf"
   },
   {
-    "databaseId": 3,
-    "percentage": 28,
-    "front": false,
-    "city": "München"
+      "databaseId": 4,
+      "percentage": 23.5,
+      "front": false,
+      "city": "Düsseldorf"
   },
   {
-    "databaseId": 3,
-    "percentage": 25,
-    "front": false,
-    "city": "Frankfurt am Main"
+      "databaseId": 5,
+      "percentage": 7,
+      "front": false,
+      "city": "Düsseldorf"
   },
   {
-    "databaseId": 3,
-    "percentage": 22,
-    "front": false,
-    "city": "Erfurt"
+      "databaseId": 6,
+      "percentage": 3,
+      "front": false,
+      "city": "Düsseldorf"
   },
   {
-    "databaseId": 3,
-    "percentage": 26,
-    "front": false,
-    "city": "Düsseldorf"
+      "databaseId": 1,
+      "percentage": 15,
+      "front": true,
+      "city": "Leipzig"
   },
   {
-    "databaseId": 2,
-    "percentage": 26,
-    "front": false,
-    "city": "Hamburg"
+      "databaseId": 2,
+      "percentage": 15,
+      "front": false,
+      "city": "Leipzig"
   },
   {
-    "databaseId": 2,
-    "percentage": 27,
-    "front": false,
-    "city": "München"
+      "databaseId": 3,
+      "percentage": 28.3,
+      "front": false,
+      "city": "Leipzig"
   },
   {
-    "databaseId": 2,
-    "percentage": 27,
-    "front": false,
-    "city": "Frankfurt am Main"
+      "databaseId": 4,
+      "percentage": 13,
+      "front": false,
+      "city": "Leipzig"
   },
   {
-    "databaseId": 2,
-    "percentage": 18,
-    "front": false,
-    "city": "Erfurt"
+      "databaseId": 5,
+      "percentage": 16.7,
+      "front": false,
+      "city": "Leipzig"
   },
   {
-    "databaseId": 2,
-    "percentage": 37.5,
-    "front": false,
-    "city": "Düsseldorf"
+      "databaseId": 6,
+      "percentage": 11.7,
+      "front": false,
+      "city": "Leipzig"
   },
   {
-    "databaseId": 1,
-    "percentage": 15,
-    "front": true,
-    "city": "Leipzig"
+      "databaseId": 1,
+      "percentage": 16.5,
+      "front": true,
+      "city": "Berlin"
   },
   {
-    "databaseId": 2,
-    "percentage": 15,
-    "front": false,
-    "city": "Leipzig"
+      "databaseId": 2,
+      "percentage": 25.1,
+      "front": false,
+      "city": "Berlin"
   },
   {
-    "databaseId": 3,
-    "percentage": 28.3,
-    "front": false,
-    "city": "Leipzig"
+      "databaseId": 3,
+      "percentage": 17,
+      "front": false,
+      "city": "Berlin"
   },
   {
-    "databaseId": 4,
-    "percentage": 13,
-    "front": false,
-    "city": "Leipzig"
+      "databaseId": 4,
+      "percentage": 15.3,
+      "front": false,
+      "city": "Berlin"
   },
   {
-    "databaseId": 5,
-    "percentage": 16.7,
-    "front": false,
-    "city": "Leipzig"
+      "databaseId": 5,
+      "percentage": 10,
+      "front": false,
+      "city": "Berlin"
   },
   {
-    "databaseId": 6,
-    "percentage": 11.7,
-    "front": false,
-    "city": "Leipzig"
+      "databaseId": 6,
+      "percentage": 16,
+      "front": false,
+      "city": "Berlin"
   },
   {
-    "databaseId": 1,
-    "percentage": 16.5,
-    "front": true,
-    "city": "Berlin"
+      "databaseId": 1,
+      "percentage": 3.5,
+      "front": true,
+      "city": "München"
   },
   {
-    "databaseId": 2,
-    "percentage": 25.1,
-    "front": false,
-    "city": "Berlin"
+      "databaseId": 2,
+      "percentage": 27,
+      "front": false,
+      "city": "München"
   },
   {
-    "databaseId": 3,
-    "percentage": 17,
-    "front": false,
-    "city": "Berlin"
+      "databaseId": 3,
+      "percentage": 28,
+      "front": false,
+      "city": "München"
   },
   {
-    "databaseId": 4,
-    "percentage": 15.3,
-    "front": false,
-    "city": "Berlin"
+      "databaseId": 4,
+      "percentage": 25,
+      "front": false,
+      "city": "München"
   },
   {
-    "databaseId": 5,
-    "percentage": 10,
-    "front": false,
-    "city": "Berlin"
+      "databaseId": 5,
+      "percentage": 6.5,
+      "front": false,
+      "city": "München"
   },
   {
-    "databaseId": 6,
-    "percentage": 16,
-    "front": false,
-    "city": "Berlin"
+      "databaseId": 6,
+      "percentage": 10,
+      "front": false,
+      "city": "München"
   }
 ]
