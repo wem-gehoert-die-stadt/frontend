@@ -3,7 +3,8 @@
     "items": [
       ["/impressum", "Impressum"],
       ["/methodik", "Methodik"],
-      ["/datenschutz", "Datenschutz"]
+      ["/datenschutz", "Datenschutz"],
+      ["/neuezeile", "neuezeile"]
     ]
   }
 ]
