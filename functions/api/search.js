@@ -52,7 +52,6 @@ exports.handler = async (event) => {
                     
        FROM subsidiaries) AS A
     WHERE LOWER(A.name) LIKE LOWER($2)
-    ORDER BY SIMILARITY(A.name, $3) ASC
     LIMIT 20;`,
   });
 
