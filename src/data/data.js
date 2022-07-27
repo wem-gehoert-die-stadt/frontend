@@ -65,7 +65,8 @@ export const reviewedCities = [
 
 export const reviewedInvestors = [
   { name: 'Fredensborg/Heimstaden', slug: 'fredensborg-heimstaden' },
-  // { name: "Deutsche Wohnen", slug: "deutsche-wohnen" },
+  //{ name: "Akelius", slug: "akelius" },
+  { name: 'Vonovia', slug: 'vonovia' },
   { name: 'Grand City Properties', slug: 'grand-city-properties' },
   { name: 'Blackstone', slug: 'blackstone' },
   { name: 'Bayrische Versorgungskammer', slug: 'bayrische-versorgungskammer' },
