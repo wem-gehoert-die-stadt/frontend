@@ -96,6 +96,9 @@ exports.handler = async (event) => {
         body: JSON.stringify(searchResults),
       };
     } catch (error) {
+
+      console.log(error);
+      
       return {
         statusCode: 500,
         headers,
