@@ -6,7 +6,7 @@ import Criteria from "./Criteria";
 import Heading from "../../../Heading";
 import Paragraph from "../../../Paragraph";
 import resetList from "../../../../styles/reset-list";
-import reviewedInvestors from "../../../../data/data";
+import { reviewedInvestors } from "../../../../data/data";
 import Link from "gatsby-link";
 import { css } from "@emotion/core";
 
