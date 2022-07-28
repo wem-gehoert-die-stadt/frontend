@@ -11,6 +11,7 @@ import Link from "gatsby-link";
 import { css } from "@emotion/core";
 
 import { colors, fonts } from "../../../../styles/tokens";
+import fluid from "../../../../styles/fluid";
 
 import {
   container,
