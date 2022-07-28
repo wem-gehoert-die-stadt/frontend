@@ -6,6 +6,11 @@ import Criteria from "./Criteria";
 import Heading from "../../../Heading";
 import Paragraph from "../../../Paragraph";
 import resetList from "../../../../styles/reset-list";
+import reviewedInvestors from "../../../../data/data";
+import Link from "gatsby-link";
+import { css } from "@emotion/core";
+
+import { colors, fonts } from "../../../../styles/tokens";
 
 import {
   container,
@@ -92,6 +97,20 @@ const Owner = ({
           </Paragraph>
 
           {description && <Paragraph size="small">{description}</Paragraph>}
+
+          {reviewedInvestors.filter(({ name: reviewedInvestorName })=> reviewedInvestorName === name).length > 0 && 
+            <Link to={`/`} css={css`
+                position: fixed;
+                top: 20px;
+                left: 20px;
+                background-color: ${colors.attention1};
+                z-index: 2000;
+                padding: ${fluid(0.2, 0.5)};
+                font-size: ${fluid(0.5, 1)};
+                color: #fff;
+                border-radius: 5px;
+                font-family: ${fonts.text.family};
+              `}>europaweit aggierender Investor</Link>}
         </div>
       </header>
 
