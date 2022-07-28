@@ -90,6 +90,16 @@ const Owner = ({
           <Heading level={3} css={nameStyle}>
             {name}
           </Heading>
+          {reviewedInvestors.filter(({ name: reviewedInvestorName })=> reviewedInvestorName === name).length > 0 && 
+            <Link to={`/#actors`} css={css`
+                background-color: ${colors.attention1};
+                z-index: 2000;
+                padding: ${fluid(0.2, 0.5)};
+                font-size: ${fluid(0.5, 1)};
+                color: #fff;
+                border-radius: 5px;
+                font-family: ${fonts.text.family};
+              `}>europaweit agierender Investor</Link>}
         </div>
 
         <div css={[section, sectionBorder]}>
@@ -98,20 +108,6 @@ const Owner = ({
           </Paragraph>
 
           {description && <Paragraph size="small">{description}</Paragraph>}
-
-          {reviewedInvestors.filter(({ name: reviewedInvestorName })=> reviewedInvestorName === name).length > 0 && 
-            <Link to={`/`} css={css`
-                position: fixed;
-                top: 20px;
-                left: 20px;
-                background-color: ${colors.attention1};
-                z-index: 2000;
-                padding: ${fluid(0.2, 0.5)};
-                font-size: ${fluid(0.5, 1)};
-                color: #fff;
-                border-radius: 5px;
-                font-family: ${fonts.text.family};
-              `}>europaweit aggierender Investor</Link>}
         </div>
       </header>
 
